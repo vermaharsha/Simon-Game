@@ -25,3 +25,7 @@
    ```bash
    git clone https://github.com/vermaharsha/SimonGame.git
    ```
+2. Open the index.html file in your browser to start playing.
+
+## Contribution
+Contributions are welcome! Fork this repository, make improvements, and submit a pull request.
